@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_github_pages"]=self["webpackChunkvue_github_pages"]||[]).push([[279],{279:function(u,e,n){n.r(e),n.d(e,{default:function(){return f}});var t=n(6768);const r={class:"index"};function s(u,e){return(0,t.uX)(),(0,t.CE)("div",r,e[0]||(e[0]=[(0,t.Lk)("h1",null,"あいうえお",-1)]))}var a=n(1241);const c={},i=(0,a.A)(c,[["render",s]]);var f=i}}]);
+//# sourceMappingURL=279.851dd849.js.map

@@ -18,7 +18,7 @@ const routes = [
   {
     path: '/index',
     name: 'index',
-    component: IndexView
+    component: () => import('../views/IndexView.vue')
   }
 ]
 

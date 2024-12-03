@@ -1,5 +1,7 @@
 <template>
-  <h1>あいうえお</h1>
+  <div class="index">
+    <h1>あいうえお</h1>
+  </div>
 </template>
 
 <script></script>
